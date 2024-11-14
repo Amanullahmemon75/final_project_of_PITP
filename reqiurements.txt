@@ -1,1 +1,11 @@
-
+Library Versions:
+pandas: 2.2.2
+numpy: 1.26.4
+matplotlib: 3.8.0
+seaborn: 0.13.2
+plotly: 5.24.1
+scikit-learn: 1.5.2
+xgboost: xgboost - Version not directly accessible from classifier
+statsmodels: 0.14.4
+scipy: 1.13.1
+tensorflow: 2.17.0
